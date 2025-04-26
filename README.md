@@ -2,7 +2,13 @@
 **Efficient Sentiment Analysis using PEFT, LoRA, and Streamlit Deployment**
 
 ---
+Project Resources
+GitHub Repository: https://github.com/selvintuscano/distilbert-lora-finetune-amazon-polarity
+Presentations:
+1.	LoRA and PEFT Explanation: https://drive.google.com/file/d/1G0e2izyMiGLTqED9_qmPLS0LnjILX698/view
+2.	Code and Project Walkthrough: https://drive.google.com/file/d/1GHThc9iHC9uYcRtAeAyXo9LrPFqAThQc/view
 
+---
 ## 📖 Overview
 This project demonstrates how to fine-tune **DistilBERT** using **LoRA (Low-Rank Adaptation)** and Hugging Face's **PEFT** library on the **Amazon Polarity dataset** for binary sentiment classification.
 
