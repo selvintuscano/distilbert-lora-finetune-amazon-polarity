@@ -1,5 +1,5 @@
 # 🚀 Finetune DistilBERT with LoRA on Amazon Polarity Dataset
-**Efficient Sentiment Analysis using PEFT, LoRA, and Streamlit Deployment**
+**Efficient Sentiment Analysis using PEFT, LoRA(Low-Rank Adaptation), and Streamlit Deployment**
 
 ---
 ## Project Resources
